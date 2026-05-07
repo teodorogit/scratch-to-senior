@@ -1,5 +1,0 @@
-void main() {
-	print("teste".split('').reversed.join());
-}
-
-//https://pt.stackoverflow.com/q/397113/101

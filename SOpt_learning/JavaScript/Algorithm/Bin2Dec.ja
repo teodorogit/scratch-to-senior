@@ -1,6 +1,0 @@
-let bin = '1110';
-let dec = 0;
-for (let c = 0; c < bin.length; c++) dec += Math.pow(2, c) * bin[bin.length - c - 1]; //pega do último ao primeiro
-console.log(dec);
-
-//https://pt.stackoverflow.com/q/445566/101

@@ -1,3 +1,0 @@
-liquido <- valorTotal * (100 - descontoInss) / 100
-
-//https://pt.stackoverflow.com/q/208916/101
